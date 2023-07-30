@@ -1,3 +1,3 @@
-# Insosec_final
+# Infosec_final
 
 dataset: https://spritz.math.unipd.it/datasets/HandMeYourPIN
